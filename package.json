@@ -4,7 +4,12 @@
   "description": "Small module that calls a function when your computer wakes up from sleep",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "standard": "^7.1.2"
+  },
+  "scripts": {
+    "test": "standard"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mafintosh/on-wake-up.git"
