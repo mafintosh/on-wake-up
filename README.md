@@ -19,7 +19,7 @@ awake(function () {
 
 ## Credits
 
-@juliangruber came up with the algorithm
+[@juliangruber](https://github.com/juliangruber) came up with the algorithm
 
 ## License
 
