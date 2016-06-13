@@ -1,0 +1,18 @@
+{
+  "name": "on-wake-up",
+  "version": "0.0.0",
+  "description": "Small module that calls a function when your computer wakes up from sleep",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/on-wake-up.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/on-wake-up/issues"
+  },
+  "homepage": "https://github.com/mafintosh/on-wake-up"
+}
