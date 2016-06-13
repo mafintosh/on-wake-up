@@ -20,6 +20,7 @@ awake(function () {
 ## Credits
 
 [@juliangruber](https://github.com/juliangruber) came up with the algorithm
+
 [@pfraze](https://github.com/pfraze) for writing [almost the same module 6 months before me](https://github.com/pfraze/on-wakeup)
 
 ## License
