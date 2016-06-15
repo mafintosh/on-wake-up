@@ -11,7 +11,7 @@ module.exports = function awake (fn) {
 
   function tick () {
     var now = Date.now()
-    if (then - now > 2 * CLOCK) fn()
+    if (now - then > 2 * CLOCK) fn()
     then = now
   }
 }
